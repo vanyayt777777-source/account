@@ -1,4 +1,0 @@
-aiogram==3.4.1
-pyrogram==2.0.106
-phonenumbers==8.13.39
-python-dotenv==1.0.0
